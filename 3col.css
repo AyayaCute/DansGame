@@ -13,7 +13,7 @@ html, body {
 /*formatering för sidans body element = bakgrundsfärg*/
 body {
   background-size: auto;
-  background-image: url("../img/battlefield-5.jpg");
+  background-image: url("battlefield-5.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
